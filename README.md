@@ -1,6 +1,11 @@
 # JavaTicTacToe
 A Tic Tac Toe for 2 human players made in Java!
 
+## Try On!
+You can play JavaTicTacToe by downloading it here! <br> <br>
+https://github.com/nathaliarmolina/JavaTicTacToe/blob/main/JavaTicTacToe.jar <br> <br>
+No need to install in your pc (if you have java)
+
 ## Start Screen
 
 ![image](https://github.com/user-attachments/assets/75ab08d2-4e67-4717-bbdb-2f18a8dee9e8)
@@ -21,6 +26,8 @@ A Tic Tac Toe for 2 human players made in Java!
 ## Draw!
 
 ![image](https://github.com/user-attachments/assets/7509adbb-21cb-4f90-8214-4fa12067a5be)
+
+
 
 
 
