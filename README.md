@@ -7,7 +7,8 @@ A Tic Tac Toe for 2 human players made in Java!
 
 ## Game Play
 
-![image](https://github.com/user-attachments/assets/af94388c-f89f-47c2-80a5-a696474bdfab)
+![image](https://github.com/user-attachments/assets/cec05f04-97fb-4306-a2a9-3e866acbf68e)
+
 
 ## X Wins!
 
