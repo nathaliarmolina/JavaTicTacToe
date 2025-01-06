@@ -22,8 +22,15 @@ A Tic Tac Toe for 2 human players made in Java!
 
 ![image](https://github.com/user-attachments/assets/7509adbb-21cb-4f90-8214-4fa12067a5be)
 
+## Try On!
 
+You can download the game here and run it on your computer. No need to install the game if you have Java in your pc:
 
+### Jar File
+https://github.com/nathaliarmolina/JavaTicTacToe/blob/main/JavaTicTacToe.jar
+
+## Download Java
+https://www.java.com/pt-BR/download/manual.jsp
 
 
 
